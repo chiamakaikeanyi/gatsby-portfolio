@@ -13,7 +13,7 @@ const IndexPage = () => (
 
         <main>
           <div className='about'>
-            <p>Hi, I'm Chiamaka. I'm a Software Engineer based in Lagos, Nigeria. <br />I focus on Front-end engineering at <a href='https://www.konga.com' target='_blank' rel="noopener noreferrer">Konga Online Shopping</a> where I collaborate with awesome engineers to build amazing products for a huge customer base.</p>
+            <p>Hi, I'm Chiamaka. I'm a Software Engineer based in Lagos, Nigeria. <br />I focus on Front-end engineering at <a href='https://www.konga.com?k_id=1042900' target='_blank' rel="noopener noreferrer">Konga Online Shopping</a> where I collaborate with awesome engineers to build amazing products for a huge customer base.</p>
 
             <p>In addition to my development work, I <em>write</em> articles on <a href='https://medium.com/fbdevclagos' target='_blank' rel='noopener noreferrer'>Facebook Developer Circles Lagos</a> and <a href='https://medium.freecodecamp.org/@chiamakaikeanyi' target='_blank' rel='noopener noreferrer'>freeCodeCamp</a>. Feel free to reach out.
           </p>
